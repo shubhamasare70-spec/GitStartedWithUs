@@ -366,5 +366,5 @@ background: linear-gradient(to top right, #4568dc, #b06ab3);
 #pixel-art-container .cell:nth-child(600) {
   background-color: red;
 }
-#pixel-art-container .cell:nth-child(401) {
+#pixel-art-container .cell:nth-child(405) {
   background-color: turquoise;
